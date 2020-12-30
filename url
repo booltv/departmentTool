@@ -1,0 +1,1 @@
+https://oauth-login.cloud.huawei.com/oauth2/v2/authorize?response_type=code&access_type=offline&client_id=102301179&redirect_uri=http%3A%2F%2Flocalhost%3A9080%2F%23%2FgetToken&scope=https%3A%2F%2Fwww.huawei.com%2Fauth%2Faccount%2Fbase.profile
